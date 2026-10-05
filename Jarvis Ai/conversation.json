@@ -1,0 +1,30 @@
+[
+    {
+        "user": "what is python",
+        "jarvis": "Python is a high‑level, interpreted programming language known for its clear syntax and readability. It’s widely used for web development, data science, automation, and many other fields."
+    },
+    {
+        "user": "what is python",
+        "jarvis": "Python is a high‑level, interpreted programming language known for its readability and simplicity. It’s widely used for web development, data science, automation, and scripting."
+    },
+    {
+        "user": "Explain Python to a diploma Computer Science student in simple language with one easy example.",
+        "jarvis": "Python is a high‑level programming language that reads almost like English, so you can write code quickly and read it easily.  \nIt lets you do things like “take a list of numbers and print the ones that are even” with just a few lines.  \nFor example:  \n\n```python\nnumbers = [1, 2, 3, 4, 5]\nevens = [n for n in numbers if n % 2 == 0]\nprint(evens)   # Output: [2, 4]\n```"
+    },
+    {
+        "user": "Explain recursion in programming in very simple language with a Python example.",
+        "jarvis": "Recursion is when a function calls itself to solve a smaller version of the same problem, stopping when it reaches a simple base case.  \n```python\ndef factorial(n):\n    if n <= 1:        # base case\n        return 1\n    return n * factorial(n-1)  # recursive call\nprint(factorial(5))  # outputs 120\n```\n"
+    },
+    {
+        "user": "Create a practical study plan for a diploma Computer Science student learning Python, Java, DSA and AI/ML.",
+        "jarvis": "**Practical 10‑week plan (2 hrs/day, 5 days/week)**  \n\n| Week | Focus | Key tasks | Resources |\n|------|-------|-----------|-----------|\n"
+    },
+    {
+        "user": "show my task",
+        "jarvis": "I’m not sure which tasks you’re referring to. Could you tell me more about the task list you want to see?"
+    },
+    {
+        "user": "show my task",
+        "jarvis": "Sure! Which task list or system would you like me to pull from?"
+    }
+]
