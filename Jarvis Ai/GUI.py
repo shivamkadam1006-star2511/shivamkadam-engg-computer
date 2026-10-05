@@ -9,7 +9,7 @@ import action
 # =========================
 
 root = Tk()
-root.title("JARVIS AI ASSISTANT")
+root.title("FRIDAY")
 root.geometry("550x675")
 root.resizable(False, False)
 root.config(bg="#0f172a")
